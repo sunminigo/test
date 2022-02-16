@@ -1,0 +1,16 @@
+button {
+  background: inherit;
+  border: 1px solid #eee;
+}
+
+.btn_wrap {
+  text-align: center;
+  margin-top: 50px;
+
+  .btn {
+    width: 100px;
+    height: 40px;
+    background: #02a9c9;
+    color: #fff;
+  }
+}
