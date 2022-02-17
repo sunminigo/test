@@ -18,7 +18,7 @@
 
 > ### 테스트환경
 
-- PC: Chrome, whale
+- PC: Chrome, Whale, Safari
 - Mobile: 갤럭시s 10e 및 개발자도구 모바일버전
 
 > ### ESlint
