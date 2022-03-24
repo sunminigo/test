@@ -12,7 +12,7 @@
 - icon: phosphor-react
 - style: styled-reset, styled-components, node-sass, sass-loader
   - 스타일을 리셋하고 전역 스타일 적용을 위해 사용하였습니다.
-  - 간단한 사이트라 사용 안해도 되지만 코드 작성하기 편리하게 네스팅 기능을 사용하기 위해서 node-sass를 사용하였습니다.
+  - 네스팅 기능을 사용하기 위해서 node-sass를 사용하였습니다.
 - swipeable list: @sandstreamdev/react-swipeable-list
   - 좌측으로 밀었을 때 부드러운 액션을 주기 위해서 사용하였습니다.
 
